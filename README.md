@@ -1,2 +1,4 @@
 # d-PINN-
 Computational results and Python files for the work "Simple data-driven complex fatigue life prediction inspired by multi-damage physics"
+
+The proposed d-PINN framework is coded in Python 3.8.12 with the open-source PyTorch 2.1.2 package and Scikit-Learn 1.3.2 package. It is worth remarking that our implementation is all done in PyTorch using the Python application programming interface. To replicate the results of the case study presented here, interested readers can download the program and data. After installing the necessary Python packages, links to the required datasets and Python scripts can be accessed at here. All simulations are done using a workstation configured with Windows installed and an Intel(R) Core(TM) i7-14700K CPU at 3.40 GHz, 32 GB of RAM and a GeForce RTX 4070 graphical processing.
